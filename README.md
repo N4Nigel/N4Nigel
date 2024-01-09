@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 <h3 align="center">
-    <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/46993996?v=4" alt="Daniel Quaidoo | GitHub" width="21px" />
+    <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;" src="https://yt3.ggpht.com/a/AATXAJzJ_uH_xUlDnQNCXLvGYJu_52I2YiUnKknrHg=s900-c-k-c0xffffffff-no-rj-mo" alt="Nigel Gota | GitHub" width="21px" />
+
     Hi there, I am <a href="https://www.linkedin.com/in/danielquaidoo/" target="_blank" rel="noreferrer">Nigel Gota</a>
 </h3>
 
 <h2 align="center">
-    I'm a Frontend Developer💻
+    I am a Frontend Developer💻
 </h2>
 
 ### 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/danielquaidoo/"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/linkedin.png" alt="Daniel Quaidoo | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/ghavenor"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/twitter.png" alt="Ghavenor | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/linkedin.png" alt="Nigel Gota | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/n4nigel"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/twitter.png" alt="Ghavenor | Twitter" width="21px"/></a>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -26,12 +27,16 @@
 
 -Exploring GraphQL: Delving into GraphQL to enhance data fetching and streamline communication between frontend and backend systems. <br>
 
+</br>
 -Progressive Web Apps (PWAs): Venturing into PWAs to leverage offline capabilities and deliver app-like experiences on the web. <br>
 
+</br>
 -Advanced React Patterns: Diving deeper into React.js, exploring advanced patterns to optimize state management and component architecture. <br>
 
+</br>
 -Next.js Proficiency: Mastering Next.js for server-side rendering and seamless navigation, aiming to build faster and more efficient web applications. <br>
 
+</br>
 -Three.js Adventures: Embarking on the journey of working with Three.js to bring 3D graphics to life, aiming to build modern and animated websites that captivate and immerse users in visually stunning digital experiences. 🌐🚀✨
 
 ## 💼 Technical Skills
