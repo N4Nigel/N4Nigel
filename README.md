@@ -7,7 +7,7 @@
 </h3>
 
 <h2 align="center">
-    I am a Frontend Developer💻
+    I'm a Frontend Developer💻
 </h2>
 
 ### 🤝 Connect with me
@@ -21,22 +21,16 @@
 
 
 ## 🔭 I'm currently working on:
-
-
 </br>
 
 -Exploring GraphQL: Delving into GraphQL to enhance data fetching and streamline communication between frontend and backend systems. <br>
 
-</br>
 -Progressive Web Apps (PWAs): Venturing into PWAs to leverage offline capabilities and deliver app-like experiences on the web. <br>
 
-</br>
 -Advanced React Patterns: Diving deeper into React.js, exploring advanced patterns to optimize state management and component architecture. <br>
 
-</br>
 -Next.js Proficiency: Mastering Next.js for server-side rendering and seamless navigation, aiming to build faster and more efficient web applications. <br>
 
-</br>
 -Three.js Adventures: Embarking on the journey of working with Three.js to bring 3D graphics to life, aiming to build modern and animated websites that captivate and immerse users in visually stunning digital experiences. 🌐🚀✨
 
 ## 💼 Technical Skills
