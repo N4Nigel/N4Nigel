@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3 align="center">
-    <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 50%;" src="https://yt3.ggpht.com/a/AATXAJzJ_uH_xUlDnQNCXLvGYJu_52I2YiUnKknrHg=s900-c-k-c0xffffffff-no-rj-mo" alt="Nigel Gota | GitHub" width="21px" />
+    <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 150%;" src="https://yt3.ggpht.com/a/AATXAJzJ_uH_xUlDnQNCXLvGYJu_52I2YiUnKknrHg=s900-c-k-c0xffffffff-no-rj-mo" alt="Nigel Gota | GitHub" width="21px" />
 
  Hi there, I'm <a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201" target="_blank" rel="noreferrer">Nigel Gota</a>
 </h3>
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/linkedin.png" alt="Nigel Gota | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/n4nigel"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/twitter.png" alt="Ghavenor | Twitter" width="21px"/></a>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any question/feedback, please don't hesitate to reach out to me.
 
 
 
