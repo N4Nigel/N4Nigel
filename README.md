@@ -30,7 +30,7 @@
 
 -Next.js Proficiency: Mastering Next.js for server-side rendering and seamless navigation, aiming to build faster and more efficient web applications. <br>
 
--Three.js Adventures: Embarking on the journey of working with Three.js to bring 3D graphics to life, aiming to build modern and animated websites that captivate and immerse users in visually stunning digital experiences. 🌐🚀✨
+-Three.js Adventures: Embarking on the journey of working with Three.js to bring 3D graphics to life, aiming to build modern and animated websites that captivate and immerse users in visually stunning digital experiences.🌐🚀✨
 
 <h2>💼 Technical Skills</h2> 
 
