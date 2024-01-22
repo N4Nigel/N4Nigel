@@ -7,7 +7,7 @@
 </h3>
 
 <h2 align="center">
-    I am a Frontend Developvesr.💻
+    I am a Frontend Developvvesr.💻
 </h2>
 
 ### 🤝 Connect with me
