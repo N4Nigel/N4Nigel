@@ -32,7 +32,7 @@ If you have any question/feedback, please don't hesitate to reach out to me.
 
 -Three.js Adventures: Embarking on the journey of working with Three.js to bring 3D graphics to life, aiming to build modern and animated websites that captivate and immerse users in visually stunning digital experiences.🌐🚀✨
 
-<h2>💼 Technical Skills</h2> 
+<h2>💼 Technical Skills...</h2> 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
