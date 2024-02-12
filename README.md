@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/linkedin.png" alt="Nigel Gota | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/n4nigel"><img align="left" src="https://raw.githubusercontent.com/HeyMrQuaidoo/HeyMrQuaidoo/main/images/twitter.png" alt="Ghavenor | Twitter" width="21px"/></a>
 
-If you have any question/feedback, please don't hesitate to reach out to me.
+If you have any question/feedback, please don't hesitate to reach out to me..
 
 
 
