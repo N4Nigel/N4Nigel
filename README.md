@@ -3,7 +3,7 @@
 <h3 align="center">
     <img align="left" style="width: 160px; padding:10px; border: 6px solid #ccc; border-radius: 150%;" src="https://yt3.ggpht.com/a/AATXAJzJ_uH_xUlDnQNCXLvGYJu_52I2YiUnKknrHg=s900-c-k-c0xffffffff-no-rj-mo" alt="Nigel Gota | GitHub" width="21px" />
 
- Hi there, I'm <a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201" target="_blank" rel="noreferrer">Nigel Gobta</a>
+ Hi there, I'm <a href="https://www.linkedin.com/in/nigel-edem-gota-a00039201" target="_blank" rel="noreferrer">Nigel Gota</a>
 </h3>
 
 <h2 align="center">
