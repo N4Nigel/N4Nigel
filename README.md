@@ -7,7 +7,7 @@
 </h3>
 
 <h2 align="center">
-    I am a Frontend Developer.💻
+    I am a Fullstack Developer.💻
 </h2>
 
 ### 🤝 Connect with me
